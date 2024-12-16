@@ -1,0 +1,1 @@
+export { WebhookValidator } from '../../../server/services/webhook/validator';
